@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, Django**
 
-- 💬 Ask me about **React, Vue, JS and Typescript**
+- 💬 Ask me about **ReactJs, VueJs, JS and Typescript**
 
 - 📫 How to reach me **telegram: https://t.me/Shukurov_Ozod**
 
