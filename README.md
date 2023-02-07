@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Clone of Spotify**
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **Vue, NuxtJs**
 
 - 💬 Ask me about **React, Vue, JS and Typescript**
 
