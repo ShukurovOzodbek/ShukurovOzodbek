@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 
-- 🔭 I’m currently working on **rm-bot & movie-website**
+- 🔭 I’m currently working on **bot-constructor**
 
 - 🌱 I’m currently learning **FastAPI**
 
-- 💬 Ask me about **react, vue, javascript**
+- 💬 Ask me about **vue, javascript, typescript**
 
 - 📫 How to reach me **telegram: https://t.me/Shukurov_Ozod**
 
