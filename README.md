@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 
-- 🔭 I’m currently working on **bot-constructor**
+- 🔭 I’m currently working on **chat**
 
 - 🌱 I’m currently learning **FastAPI**
 
