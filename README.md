@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shukurov Ozodbek</h1>
 <h3 align="center">A passionate fullstack developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on [Chat](https://github.com/ShukurovOzodbek/chat)
+- 🔭 I’m currently working on Crm
 
 - 🌱 I’m currently learning **FastApi**
 
