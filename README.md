@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shukurov Ozodbek</h1>
 <h3 align="center">A passionate fullstack developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on Crm
+- 🔭 I’m currently working on File Sharing App
 
-- 🌱 I’m currently learning **FastApi**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **javascript, typescript and vue**
 
