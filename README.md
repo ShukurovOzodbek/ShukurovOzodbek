@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on File Sharing App
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Backend development deeper**
 
 - 💬 Ask me about **javascript, typescript and vue**
 
