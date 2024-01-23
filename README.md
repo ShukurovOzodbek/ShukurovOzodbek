@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18743644/ozodbek-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18743644/ozodbek-dev" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ozodbek%20shukurov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ozodbek%20shukurov" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ozodbek.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ozodbek.dev/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18743644/ozodbek-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18743644/ozodbek-dev" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ozodbek%20shukurov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ozodbek%20shukurov" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ozodbek.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ozodbek.dev/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
