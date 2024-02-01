@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shukurov Ozodbek</h1>
 <h3 align="center">A passionate fullstack developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on File Sharing App
+- 🔭 I’m currently working on Chat
 
 - 🌱 I’m currently learning **Backend development deeper**
 
