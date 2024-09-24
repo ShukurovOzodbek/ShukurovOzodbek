@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Chat
 
-- 🌱 I’m currently learning **Backend development deeper**
+- 🌱 I’m currently learning **Backend development in depth**
 
 - 💬 Ask me about **javascript, typescript and vue**
 
