@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Backend development in depth**
 
-- 💬 Ask me about **javascript, typescript and vue**
-
 - 📫 Telegram link **https://t.me/Shukurov_Ozod**
 
 <h3 align="left">Connect with me:</h3>
