@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shukurov Ozodbek</h1>
 <h3 align="center">A passionate fullstack developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on Chat
+- 🔭 I’m currently working on grpc-ecommerce-arch
 
-- 🌱 I’m currently learning **Backend development in depth**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 Telegram link **https://t.me/Shukurov_Ozod**
 
