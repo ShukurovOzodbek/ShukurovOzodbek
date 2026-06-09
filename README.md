@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **kala-date**
 
-- 🌱 I’m currently learning **OS, Network**
+- 🌱 I’m currently learning **Go, Os, Network**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
