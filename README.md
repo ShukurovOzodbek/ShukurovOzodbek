@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ozodbek</h1>
 <h3 align="center">A full-stack developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on **kala-date**
+- 🔭 I’m currently working on **myself**
 
 - 🌱 I’m currently learning **Go, Os, Network**
 
