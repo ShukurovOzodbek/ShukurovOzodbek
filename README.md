@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **Go, Os, Network**
+- 🌱 I’m currently learning **Python, Os, Network**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
