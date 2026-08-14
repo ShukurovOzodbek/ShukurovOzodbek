@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **Go, Os, Network, V8, System Design**
+- 🌱 I’m currently learning **Os, Network, V8, System Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
